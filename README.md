@@ -1,4 +1,1 @@
-# yumiros-rapid-files
-# yumiros-rapid-files
-# yumiros-rapid-files
-# yumiros-rapid-files
+Files to put in \yumi\HOME\ROS
