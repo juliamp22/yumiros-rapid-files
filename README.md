@@ -1,1 +1,1 @@
-Files to put in \yumi\HOME\ROS
+Files to set in \yumi\HOME\ROS
